@@ -1,0 +1,14 @@
+{
+  "name": "juego",
+  "version": "1.0.0",
+  "description": "ejemplo de aplicacion con electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sergio De Luca",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.0.2"
+  }
+}
